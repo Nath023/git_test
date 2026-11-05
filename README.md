@@ -1,1 +1,2 @@
-# git_test
+Hello Odin!
+Awsome project flow
